@@ -1,0 +1,8 @@
+google-auth
+google-auth-oauthlib
+google-api-python-client
+gspread
+oauth2client
+python-dotenv
+beautifulsoup4
+google-generativeai
